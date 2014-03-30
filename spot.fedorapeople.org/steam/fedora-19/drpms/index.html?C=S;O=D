@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+
+  <head>
+    <title>Fedora People - spot.fedorapeople.org</title>
+    <style type="text/css" media="screen">
+      @import url("http://fedorapeople.org/userdefs/css/fedora.css");
+      @import url("http://fedorapeople.org/userdefs/css/style.css");
+    </style>
+  </head>
+
+  <body>
+
+    <div id="wrapper">
+      <div id="head">
+        <h1><a href="http://fedoraproject.org/">Fedora</a></h1>
+      </div>
+      <div id="sidebar">
+        <div class="nav">
+          <h2>Navigation</h2>
+          <ul>
+
+            <li><strong><a href="/">Home</a></strong></li>
+
+          </ul>
+        </div>
+      </div>
+      <div id="content">
+        <div id="pageLogin">
+        </div>
+<pre><a href="?C=N;O=A">Name</a>                                                                             <a href="?C=M;O=A">Last modified</a>      <a href="?C=S;O=A">Size</a>  
+<a href="/steam/fedora-19/">Parent Directory</a>                                                                                      -   
+<a href="SDL2-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.src.drpm">SDL2-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.src.drpm</a>            12-Apr-2013 21:39  3.6M  
+<a href="steam-1.0.0.36-1.fc19_1.0.0.39-1.fc19.src.drpm">steam-1.0.0.36-1.fc19_1.0.0.39-1.fc19.src.drpm</a>                                   01-Jul-2013 21:22  2.4M  
+<a href="steam-1.0.0.34-1.fc19_1.0.0.36-1.fc19.src.drpm">steam-1.0.0.34-1.fc19_1.0.0.36-1.fc19.src.drpm</a>                                   12-Apr-2013 21:39  2.3M  
+<a href="steam-1.0.0.36-1.fc19_1.0.0.39-1.fc19.i686.drpm">steam-1.0.0.36-1.fc19_1.0.0.39-1.fc19.i686.drpm</a>                                  01-Jul-2013 21:22  2.3M  
+<a href="steam-1.0.0.34-1.fc19_1.0.0.36-1.fc19.i686.drpm">steam-1.0.0.34-1.fc19_1.0.0.36-1.fc19.i686.drpm</a>                                  12-Apr-2013 21:40  2.3M  
+<a href="SDL2-debuginfo-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.i686.drpm">SDL2-debuginfo-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.i686.drpm</a> 12-Apr-2013 21:39  586K  
+<a href="SDL2-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.x86_64.drpm">SDL2-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.x86_64.drpm</a>         12-Apr-2013 21:39  143K  
+<a href="SDL2-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.i686.drpm">SDL2-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.i686.drpm</a>           12-Apr-2013 21:39  138K  
+<a href="SDL2-devel-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.x86_64.drpm">SDL2-devel-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.x86_64.drpm</a>   12-Apr-2013 21:39   32K  
+<a href="SDL2-devel-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.i686.drpm">SDL2-devel-2.0-0.1.20121107hg6659.fc19_2.0-0.2.20130412hg7062.fc19.i686.drpm</a>     12-Apr-2013 21:39   32K  
+</pre>
+      </div>
+    </div>
+    <div id="bottom">
+      <div id="footer">
+        <p class="disclaimer">
+        The Fedora Project is maintained and driven by the community and sponsored by Red Hat.  This is a community maintained site.  Red Hat is not responsible for content.
+        </p>
+        <ul>
+          <li class="first"><a href="http://fedoraproject.org/wiki/Legal">Legal</a></li>
+          <li><a href="http://fedoraproject.org/wiki/Legal/TrademarkGuidelines">Trademark Guidelines</a></li>
+
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
