@@ -4,9 +4,12 @@ Download
 
 2014-3-29
 
-wget -r -np -- http://spot.fedorapeople.org/steam/fedora-19/
+Fedora packages
+    wget -r -np -- http://spot.fedorapeople.org/steam/fedora-19/
+    wget -r -np  http://spot.fedorapeople.org/steam/steam.repo
 
-wget -r -np  http://spot.fedorapeople.org/steam/steam.repo
+Steam speced package
+    wget http://repo.steampowered.com/steam/archive/precise/steam_1.0.0.39.tar.gz
 
 
 Tree
@@ -176,8 +179,8 @@ rpm2cpio steam-1.0.0.39-1.fc19.src.rpm | cpio -dium
     │                       │           └── [           ]  doc/
     │                       │               ├── [           ]  gcc-4.6-base/
     │                       │               │   └── [      25503]  copyright
-    │                       │               ├── [         12]  libgcc1 -> gcc-4.6-base/
-    │                       │               ├── [         12]  libstdc++6 -> gcc-4.6-base/
+    │                       │               ├── [           ]  libgcc1 -> gcc-4.6-base/
+    │                       │               ├── [           ]  libstdc++6 -> gcc-4.6-base/
     │                       │               ├── [           ]  libx11-6/
     │                       │               │   └── [      47104]  copyright
     │                       │               ├── [           ]  libxau6/
