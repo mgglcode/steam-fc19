@@ -5,10 +5,12 @@ Download
 2014-3-29
 
 Fedora packages
+
     wget -r -np -- http://spot.fedorapeople.org/steam/fedora-19/
     wget -r -np  http://spot.fedorapeople.org/steam/steam.repo
 
 Steam speced package
+
     wget http://repo.steampowered.com/steam/archive/precise/steam_1.0.0.39.tar.gz
 
 
